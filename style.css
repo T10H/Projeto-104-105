@@ -1,0 +1,43 @@
+.heading {
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 40px;
+    width: 80%;
+    background-color: lightblue;
+    border-radius: 10px;
+    color: white
+}
+body {
+    background: lightpink;
+}
+#negrito {
+    color: white;
+    font-size: 20px;
+}
+#paragrafo {
+    color: white;
+    font-size: 18px;
+}
+.buttons {
+    border-radius: 10px;
+    background: mediumturquoise;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+}
+#camera {
+    width: 450px;
+    height: 400px;
+}
+.results {
+    font-size: 40px;
+    color: orangered;
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Smooch Sans', sans-serif;
+}
+#web {
+    font-size: 35px;
+    color: orangered;
+    font-family: 'Are You Serious', cursive;
+    font-family: 'Smooch Sans', sans-serif;
+}
